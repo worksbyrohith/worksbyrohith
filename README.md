@@ -1,4 +1,11 @@
-#  Hi there, I'm ROHITH K 👨‍💻
+#  Hi there, I'm Rohith K 👨‍💻
+## About me
+
+<img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+fn main() {
+    let name = 'Rohith K';
+    let acknowledgements = 'Fullstack Developer';
+}
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/c9/88/0a/c9880a8abf25f389be7154e8fee18270.jpg" alt="Image">
