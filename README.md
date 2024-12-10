@@ -7,14 +7,6 @@
 # 💫 About Me:
 <img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
-``
-fn main() {
-    let name = 'Rafael Carneiro';
-    let acknowledgements = 'Software Engineer';
-
-    let location = 'Fortaleza, Ceara, Brazil';
-    let company = 'O2D - On Demand Development';
-}
 🔭 I’m currently working on Projects.<br>👯 Open to collaborating on Full Stack and AI/ML projects.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning ML.<br>💬 Ask me about MERN, APIs, and smart app development.<br>⚡ Fun fact: I turn creative ideas into functional, impactful solutions.
 
 
