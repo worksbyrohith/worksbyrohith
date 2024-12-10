@@ -1,4 +1,4 @@
-# ✨ Hi there I'm ROHITH K 🌠
+#  Hi there, I'm ROHITH K 👨‍💻
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/c9/88/0a/c9880a8abf25f389be7154e8fee18270.jpg" alt="Image">
