@@ -1,7 +1,9 @@
-#  Hi there, I'm Rohith K 👨‍💻
+#  Hello👋, I'm Rohith K 👨‍💻
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/c9/88/0a/c9880a8abf25f389be7154e8fee18270.jpg" alt="Image">
+  <img alt="Let's Code" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="26%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Code Awesome Shit" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="45%">
 </p>
 
 # 💫 About Me:
