@@ -1,4 +1,4 @@
-#  Hello👋, I'm Rohith K 👨‍💻
+#  Hello👋, I'm Rohith K 
 
 <p align="center">
   <img alt="Let's Code" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="26%">
@@ -9,7 +9,7 @@
 # 💫 About Me:
 <img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
-🔭 I’m currently working on Projects.<br>👯 Open to collaborating on Full Stack and AI/ML projects.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning ML.<br>💬 Ask me about MERN, APIs, and smart app development.<br>⚡ Fun fact: I turn creative ideas into functional, impactful solutions.
+🔭 I’m currently working on Projects.<br>👯 Open to collaborating on Full Stack and AI/ML projects.<br>🤝 I’m looking for help with internship<br>🌱 I’m currently learning ML.<br>💬 Ask me about MERN, APIs, and smart app development.<br>⚡ Fun fact: I turn creative ideas into functional, impactful solutions.
 
 
 ## 🌐 Socials:
