@@ -45,12 +45,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=worksbyrohith&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
-# LeetCode Stats  
-<div align="center">
-  <a href="https://leetcode.com/u/Codesbyrohith/">
-    <img src="https://leetcard.jacoblin.cool/Codesbyrohith?ext=contest&theme=dark" alt="LeetCode Stats" />
-  </a>
-</div>
+
 
 ### IDE and Tools I Use  
 <div align="center">
