@@ -17,6 +17,8 @@
 
 <br clear="both"/>
 
+---
+
 <h3>🧰 Tools</h3>
 
 ![My Tools](https://skillicons.dev/icons?i=git,github,gitlab,androidstudio,linux,blender,bootstrap,firebase,ps,visualstudio,vscode,figma,eclipse,postman,aws,azure,windows,githubactions,discord)
