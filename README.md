@@ -2,8 +2,8 @@
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODA1b2RyeXR0ZzA5bGh4aDZtNXA3ZW5hZG94dWY3bHhweng4cnI0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 - 🔭 I'm currently working on a **full-stack food ordering platform**
-- 🌱 I'm currently learning **.NET, Angular, Gen AI & Prompt Engineering**
-- 🤝 I'm looking to collaborate on **Fintech & AI projects, Full Stack web dev**
+- 🌱 I'm currently learning **Gen AI & Prompt Engineering**
+- 🤝 I'm looking to collaborate on **Fintech & AI projects**
 - 📫 How to reach me: worksbyrohith@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I turn creative ideas into functional, impactful solutions!
