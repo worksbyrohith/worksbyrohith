@@ -52,7 +52,7 @@
 
 [![Rohith's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=worksbyrohith&theme=github-dark)](https://github.com/worksbyrohith)
 
-<h3 align="left">✍️ Dev Quote:</h3>
+<h3 align="left">✍️ Quote:</h3>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
