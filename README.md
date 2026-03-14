@@ -32,6 +32,12 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:worksbyrohith@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/rohith-k-in/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
+</p>
+
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <div align="center">
@@ -51,12 +57,6 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:worksbyrohith@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40"/></a>
-<a href="https://www.linkedin.com/in/rohith-k-in/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=worksbyrohith&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
