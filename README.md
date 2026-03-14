@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I turn creative ideas into functional, impactful solutions!
 
-> *" Common lad with uncommon ambition. "*
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
