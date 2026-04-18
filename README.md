@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,angular,ts,nodejs,dotnet,mysql,postgres"<br><img src ="https://skillicons.dev/icons?i=tailwind,firebase,aws,azure,git,figma,postman"</br> 
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,angular,ts,nodejs"<br><img src ="https://skillicons.dev/icons?i=dotnet,mysql,postgres,tailwind,firebase,aws,azure,git,figma,postman"</br> 
 </p>
 
 ![My GitHub Game](game.gif)
